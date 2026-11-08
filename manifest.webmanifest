@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "AniMir — твой мир аниме",
+  "short_name": "AniMir",
+  "description": "Мобильный каталог аниме в фиолетовом неоновом стиле",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090711",
+  "theme_color": "#090711",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
